@@ -9,8 +9,8 @@ We use a Summative Lagged Impact Model.
 The `association_matrix` (generated in `03_event_impact_modeling.ipynb`) maps events to financial inclusion indicators using a 1–3 scale (Low/Med/High).
 
 3. Data Sources & Confidence
-- **Primary: `ethiopia_fi_unified_data.xlsx`.
-- **Proxies: Comparable country data (e.g., Kenya/Rwanda) used for low-data events, adjusted for local economic context.
+- Primary: `ethiopia_fi_unified_data.xlsx`.
+- Proxies: Comparable country data (e.g., Kenya/Rwanda) used for low-data events, adjusted for local economic context.
 - Confidence: Labeled as High/Medium/Low in the `impact_refinement_log.md`.
 
  4. Validation (Telebirr Case)
